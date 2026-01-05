@@ -3,4 +3,6 @@
 // 1. git init
 // 2. git add .
 // 3. git coomit -m "Init"
-// 4. git push
+// 4. git push  
+
+console.log("test");
